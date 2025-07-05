@@ -1,8 +1,4 @@
 # terminal - Personal Homepage Terminal
-> simulating a terminal as my homepage  
-> available at [viren-bahure.de/terminal](https://viren-bahure.de/terminal/)  
-
-[![Screenshot of Website](https://raw.githubusercontent.com/viren-bahure/terminal/main/res/img/screenshots/readme-screenshot.png)](https://viren-bahure.de/terminal/)
 
 ## Table of contents
 * [Introduction](#introduction)
